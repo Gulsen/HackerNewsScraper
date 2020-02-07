@@ -1,0 +1,8 @@
+/Users/gulsenbal/Projects/HackerNewsScraper/HackerNewsScraper/bin/Release/HackerNewsScraper.exe
+/Users/gulsenbal/Projects/HackerNewsScraper/HackerNewsScraper/bin/Release/HtmlAgilityPack.dll
+/Users/gulsenbal/Projects/HackerNewsScraper/HackerNewsScraper/bin/Release/Newtonsoft.Json.dll
+/Users/gulsenbal/Projects/HackerNewsScraper/HackerNewsScraper/bin/Release/HtmlAgilityPack.pdb
+/Users/gulsenbal/Projects/HackerNewsScraper/HackerNewsScraper/bin/Release/HtmlAgilityPack.xml
+/Users/gulsenbal/Projects/HackerNewsScraper/HackerNewsScraper/bin/Release/Newtonsoft.Json.xml
+/Users/gulsenbal/Projects/HackerNewsScraper/HackerNewsScraper/obj/Release/HackerNewsScraper.csproj.CopyComplete
+/Users/gulsenbal/Projects/HackerNewsScraper/HackerNewsScraper/obj/Release/HackerNewsScraper.exe
